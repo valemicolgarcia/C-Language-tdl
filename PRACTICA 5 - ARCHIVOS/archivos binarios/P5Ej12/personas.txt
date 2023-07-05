@@ -1,0 +1,4 @@
+id;dni;apellido;nombre;trabajo;correo;ciudad;pais
+1;30919537;Alldridge;Enoch;Auditor;Enoch_Alldridge440@deons.tech;Worcester;Vietnam
+2;50696081;Doherty;Noah;Treasurer;Noah_Doherty3511@deons.tech;Venice;Marapshall Islands
+3;41858450;Gates;Rae;HR Coordinator;Rae_Gates7739@sveldo.biz;Memphis;Cameroon
