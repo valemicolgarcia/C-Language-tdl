@@ -1,0 +1,15 @@
+
+Estructuras de datos dinamicas:
+
+malloc: te reserva la mememoriaen basura
+
+calloc: te reserva la memoria y te inicializa en 0
+
+realloc: sirve para cambiar el tamaño del vector en ejecución
+
+b. realloc en funcion de malloc: puntero a null
+
+realloc con el valor 0
+
+
+c. sizeof:
