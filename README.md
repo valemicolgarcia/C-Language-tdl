@@ -14,4 +14,4 @@
 - Librerías
 - Herramientas básicas
 
-![image](https://github.com/valemicolgarcia/C-Language-tdl/assets/122756188/58de4591-35c4-4749-8a50-880b58cde3ea)
+![C programming language](https://ict.iitk.ac.in/wp-content/uploads/c-programming-2.jpg)
